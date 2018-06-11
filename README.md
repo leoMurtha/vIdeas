@@ -6,7 +6,7 @@ Deployed using Heroku link [Here](https://obscure-ocean-68251.herokuapp.com/).
 1. Download and extract it.
 2. cd into vIdeas folder
 3. npm install (to resolve dependencies)
-4. mongod --directoryperdb --dbpath <your mongodb PATH here> (to start the mongo local db)
+4. mongod --directoryperdb --dbpath "your mongodb PATH here" (to start the mongo local db)
 5. npm start (to run the app)
   
 ## Tools Used
